@@ -1,2 +1,2 @@
 # armandch.github.io
-My personal website.
+I-Fan Chen's personal website.
